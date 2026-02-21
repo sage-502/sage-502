@@ -70,3 +70,6 @@
 ### [cuteTrashcan](https://github.com/sage-502/cuteTrashcan)
 
 * 가끔 코드 조각 던지는 곳
+
+
+<!-- curious? see behind.md -->
