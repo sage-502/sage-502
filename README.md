@@ -95,9 +95,17 @@
 
 ---
 
-## 🐾 Supervisor (Neon)
+## 🐾 Supervisor
 
+<details>
+<summary> Meet the Supervisor</summary>
+
+<img src="https://github.com/sage-502/sage-502/blob/main/Neon.jpg" width="300">
+
+* Name: Neon
 * Role: Senior Keyboard Walker  
-* Specialty: Randomized Keyboard ASLR  
+* Specialty: Randomized Keyboard ASLR
 * Mitigation: Sleep-on-Keyboard  
-* Privilege Level: Absolute
+* Privilege Level: root
+
+</details>
