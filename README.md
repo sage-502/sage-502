@@ -33,7 +33,7 @@
 
 #### [pwnable-intro](https://github.com/sage-502/pwnable-intro)
 
-* 학과 해킹 동아리 YB 포너블 입문 강의 자료
+* 학과 해킹 동아리 YB 대상 포너블 입문 강의 자료
 * Started: 2025.08
 * Status: Completed
 
