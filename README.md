@@ -89,6 +89,10 @@
 
 * 가끔 코드 조각 던지는 곳
 
+#### [team-generator](https://github.com/sage-502/team-generator/tree/main)
+
+* 3~5인 균등 인원 랜덤 팀 생성기
+
 </details>
 
 <!-- curious? see behind.md -->
