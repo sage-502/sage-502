@@ -1,7 +1,17 @@
-# 🧪 Study Archive 
+# 📘 Study Archive 
 
-학업, 동아리 활동, 개인 실험 기록 저장소</br>
-시스템 보안 / pwnable 위주로 학습
+* 학업, 동아리 활동, 개인 실험 기록 저장소
+* 시스템 보안 / pwnable 위주로 학습
+
+---
+
+## 🎯 Focus Projects
+
+| Project | Description |
+|-------|-------------|
+| [pwnable-intro](https://github.com/sage-502/pwnable-intro) | 학과 해킹 동아리 YB 대상 포너블 입문 강의 자료 |
+| [pwnable-lab](https://github.com/sage-502/pwnable-lab) | 32bit 스택 취약점 학습 자료 모음집 |
+| [mitigation-lab](https://github.com/sage-502/mitigation-lab) | 바이너리 보호기법 학습 자료 모음집 |
 
 ---
 
@@ -89,9 +99,13 @@
 
 * 가끔 코드 조각 던지는 곳
 
-#### [team-generator](https://github.com/sage-502/team-generator/tree/main)
+#### [team-generator](https://github.com/sage-502/team-generator)
 
 * 3~5인 균등 인원 랜덤 팀 생성기
+
+#### [budget-app](https://github.com/sage-502/budget-app)
+
+* 클라이언트 사이드 예산-지출 관리 웹앱(PWA)
 
 </details>
 
