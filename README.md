@@ -105,7 +105,7 @@
 
 #### [budget-app](https://github.com/sage-502/budget-app)
 
-* 클라이언트 사이드 예산-지출 관리 웹앱(PWA) : [데모](https://sage-502.github.io/budget-app)
+* 클라이언트 사이드 예산-지출 관리 웹앱(PWA)
 
 </details>
 
