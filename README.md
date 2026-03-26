@@ -55,6 +55,13 @@
 * Started: 2025.11
 * Status: Completed
 
+#### [elfcat](https://github.com/sage-502/elfcat)
+
+* ELF 보안 정적 분석 CLI 툴 개발 팀 프로젝트
+* header, mitigation, 취약 함수 탐색
+* Started: 2026.03
+* Status: In Progress
+
 </details>
 
 
