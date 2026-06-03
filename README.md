@@ -9,9 +9,9 @@
 
 | Project | Description |
 |-------|-------------|
-| [pwnable-intro](https://github.com/sage-502/pwnable-intro) | 학과 해킹 동아리 YB 대상 포너블 입문 강의 자료 |
 | [pwnable-lab](https://github.com/sage-502/pwnable-lab) | 32bit 스택 취약점 학습 자료 모음집 |
 | [mitigation-lab](https://github.com/sage-502/mitigation-lab) | 바이너리 보호기법 학습 자료 모음집 |
+|[elfcat](https://github.com/sage-502/elfcat) | ELF 보안 정적 분석 CLI 툴 개발 (팀 프로젝트) |
 
 ---
 
