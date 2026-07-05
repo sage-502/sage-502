@@ -9,7 +9,7 @@
 
 | Project | Description |
 |-------|-------------|
-| [pwnable-lab](https://github.com/sage-502/pwnable-lab) | 32bit 스택 취약점 학습 자료 모음집 |
+| [stack-lab](https://github.com/sage-502/stack-lab) | 32bit 스택 취약점 학습 자료 모음집 |
 | [mitigation-lab](https://github.com/sage-502/mitigation-lab) | 바이너리 보호기법 학습 자료 모음집 |
 |[elfcat](https://github.com/sage-502/elfcat) | ELF 보안 정적 분석 CLI 툴 개발 (팀 프로젝트) |
 
@@ -70,7 +70,7 @@
 <details>
 <summary> Open </summary>
 
-#### [pwnable-lab](https://github.com/sage-502/pwnable-lab)
+#### [stack-lab](https://github.com/sage-502/stack-lab)
 
 * 32bit stack 기반 취약점 제작  
 * exploit 작성 및 patch 적용 실습
