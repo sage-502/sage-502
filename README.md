@@ -84,7 +84,7 @@
 * 보호기법 배경 및 동작 방식 학습  
 * 32bit 환경에서 mitigation on/off 바이너리 비교 실습
 * Started: 2026.01
-* Status: In Progress
+* Status: Completed
 
 
 #### [heap-lab](https://github.com/sage-502/heap-lab)
