@@ -45,15 +45,15 @@
 
 * 학과 해킹 동아리 YB 대상 포너블 입문 강의 자료
 * Started: 2025.08
-* Status: Completed
+* Status: Completed(2026.07 수정)
 
 
-#### [bof_demo](https://github.com/sage-502/bof_demo)
+#### [pwn-intro-prac](https://github.com/sage-502/pwn-intro-prac)
 
 * BOF + ret2win (mitigation X) 시연 환경 세팅 스크립트
 * pwnable-intro 보조 자료
 * Started: 2025.11
-* Status: Completed
+* Status: Completed(2026.07 수정)
 
 #### [elfcat](https://github.com/sage-502/elfcat)
 
