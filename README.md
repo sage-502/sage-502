@@ -91,8 +91,8 @@
 
 * pwnable-lab의 후속작
 * 힙 기반 취약점 학습 설계
-* Started: -
-* Status: Planning
+* Started: 2026.07
+* Status: On progress
 
 </details>
 
